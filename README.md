@@ -16,6 +16,7 @@
 
   ## Project Links
   https://github.com/imspires/note-taker<br>
+  https://warm-island-96565.herokuapp.com/
 
   ## Media
   ![Sreenshot](public/assets/images/screenshot.png?raw=true)
@@ -29,7 +30,7 @@
   ```
 
   ## Installation
-  No installation needed. Check deployed link.
+  No installation needed. Check deployed link above.
 
   ## Usage
   1. To use the Note Taker hit "Get Started"
